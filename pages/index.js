@@ -42,7 +42,7 @@ export default function Home() {
       </Head>
       <main style={{ padding: '2rem', fontFamily: 'sans-serif' }}>
         <h1>Welcome to Digitolla</h1>
-        <p>Event hoo ya Social Media, sab set hai!</p>
+        <p>Event hoo ya Social Media, Digitolla py sab set hai!</p>
       </main>
     </>
   );
