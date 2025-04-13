@@ -4,7 +4,7 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>Digitolla | Event hoo ya Social Media, sab set hai!</title>
+        <title>Digitolla | Event hoo ya Social Media, Digitolla py sab set hai!</title>
         <meta name="description" content="Digitolla is your go-to creative agency for event coverage, social media management, video editing, and more!" />
         <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: `{
           "@context": "https://schema.org",
